@@ -1,4 +1,4 @@
-from .vieneu_tts import VieNeuTTS
+from .vietnamese_tts import VietnameseTTS
 
 __all__ = ["VietnameseTTS"]
 
