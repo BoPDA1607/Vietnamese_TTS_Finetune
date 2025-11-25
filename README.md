@@ -19,8 +19,8 @@ Vietnamese Text-to-Speech (TTS) model with voice cloning capabilities.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd VieNeu-TTS
+git clone https://github.com/BoPDA1607/Vietnamese_TTS_Finetune.git
+cd Vietnamese_TTS_Finetune
 ```
 
 ### 2. Install espeak-ng
