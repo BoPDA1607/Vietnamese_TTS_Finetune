@@ -1,4 +1,4 @@
-# VieNeu-TTS
+# Vietnamese-TTS
 
 Vietnamese Text-to-Speech (TTS) model with voice cloning capabilities.
 
